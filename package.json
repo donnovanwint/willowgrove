@@ -1,0 +1,1 @@
+{"name":"willowgrove","private":true,"scripts":{"build":"node src/build.mjs","start":"npx serve dist -l 4173"}}
